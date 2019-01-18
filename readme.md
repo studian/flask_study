@@ -1,16 +1,11 @@
 # flask_test
 
-## Install: Flask Dev. Env.
-* Install anaconda or miniconda
-* Create python env.
-```
-conda create -n flask36 python=3.6
-```
-* python env.
-```
-source activate flask36
-```
-* install Flask in flask36 env.
-```
-(flask36) conda install -c anacoda flask
-```
+## chapter 01
+* install flask environment
+* simple examples
+    * first app: hello world
+    * using app.route()
+    * URL rule: using app.test_request_context()
+    * request vs response
+    * cookie vs session
+    * using render_template()
