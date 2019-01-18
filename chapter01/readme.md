@@ -1,4 +1,4 @@
-# flask_test
+# flask_study (create by Hyun-Koo Kim)
 
 ## Install: Flask Dev. Env.
 * Install anaconda or miniconda

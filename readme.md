@@ -1,4 +1,4 @@
-# flask_test
+# flask_study (create by Hyun-Koo Kim)
 
 ## chapter 01
 * install flask environment
